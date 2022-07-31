@@ -1,1 +1,30 @@
+#div1{width: 45px;height: 45px;border-radius: 50%;
+background-color: darkgray;}
+.div3{width: 30px;height: 30px;background-color:darkgray ;
+border-radius: 50%;float: left;margin-left: 2%;margin-top:-1%;margin-bottom: 2%;}
+#div2{background-color: fuchsia;border-radius: 10px;height: 50%;
+margin: 3%;padding: 5%;}
+#h1{color: white; font-weight: 800;font-family: Arial, Helvetica, sans-serif;}
+#b{color: blueviolet;}
+#p1{width: 40%;height: 50%;
+color: white;}
+#input1{width: 35%;border-radius: 5px;
+color: fuchsia;height: 40px;}
+#input2{background-color: blueviolet;
+    border-color:blueviolet ;width: 15%;color: white;height: 45px;
+margin-left: 2%;}
+#div5{background-color: #d20eec;border-radius: 10px;height: 5%;
+   padding: 2%;margin: 3%;}
+    #p2{height: 5%;
+       padding: 1%;width: 80px;float: left;margin-left: 53%;
+       margin-top:-1.5%;}
+       #p3{height: 5%;
+        padding: 1%;width: 80px;float: left;margin-top:-1.5%;}
+       #btn1{color: #d20eec;border-radius: 5%;width: 80px;
+    border-color:#d20eec ;text-align: center;margin-left: 56%;
+height: 30px;}
+       #btn2{color: white;background-color: #d20eec;height: 30px;
+        border-radius: 5%;border-color:#d20eec ;text-align: center;margin-left: 2%;width: 80px;}
+        .p11{float: left;margin-left: 2%;}
+        #div6{margin: 1%;}
 
