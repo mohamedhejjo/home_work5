@@ -17,9 +17,10 @@ margin-left: 2%;}
    padding: 2%;margin: 3%;}
     #p2{height: 5%;
        padding: 1%;width: 80px;float: left;margin-left: 53%;
-       margin-top:-1.5%;}
+       margin-top:-1.5%;color: white;}
        #p3{height: 5%;
-        padding: 1%;width: 80px;float: left;margin-top:-1.5%;}
+        padding: 1%;color: white;
+        width: 80px;float: left;margin-top:-1.5%;}
        #btn1{color: #d20eec;border-radius: 5%;width: 80px;
     border-color:#d20eec ;text-align: center;margin-left: 56%;
 height: 30px;}
